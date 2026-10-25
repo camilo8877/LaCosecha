@@ -1,0 +1,5 @@
+DATABASE_URL=postgresql+psycopg://postgres:Cristian8877.@localhost:5432/la_cosecha
+SECRET_KEY=f4de193b9168ed2d77771174c6ce19ad88093be24fc1f3cd4fce6c7f1a729e2c
+ADMIN_NOMBRE=Marta Ruiz
+ADMIN_CORREO=marta@lacosecha.com
+ADMIN_CONTRASENA=Cosecha2026*
